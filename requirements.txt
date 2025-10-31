@@ -1,0 +1,15 @@
+# Database connectivity
+psycopg2-binary==2.9.11
+
+# Environment management
+python-dotenv==1.1.0
+
+# Data analysis (add as needed)
+pandas
+numpy
+matplotlib
+seaborn
+
+# Jupyter notebook support
+jupyter
+ipykernel
