@@ -1,1 +1,12 @@
-config\.env
+# Environment files - never commit these!
+config/.env
+.env
+*.env
+!*.env.template
+!*.env.example
+
+# Other sensitive files
+*.key
+*.pem
+*.p12
+secrets/
