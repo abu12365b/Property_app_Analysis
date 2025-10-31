@@ -1,0 +1,7 @@
+id,name,address,country,city,postal_code,type,total_units,monthly_rent,status,notes,created_at,updated_at
+5,Triplex Iberville,9164-9166 Rue D'Iberville,Canada,Montreal,1Z 2P9,townhouse,3,4000.0,occupied,,2025-10-09 12:52:44.374,2025-10-09 12:52:44.374
+6,Kasoa Budumburam,Estate road,Ghana,Accra,100,commercial,10,100.0,vacant,,2025-10-09 12:58:41.660,2025-10-09 12:58:41.660
+7,Nukafu,Rue du marché,Togo,Lome,109,commercial,20,109.0,vacant,,2025-10-09 13:50:44.150,2025-10-09 13:50:44.150
+8,Agbodankope,Rue d aneho,Togo,Lome,100,commercial,10,109.0,vacant,,2025-10-09 13:52:20.249,2025-10-09 13:52:20.249
+9,Achimota,Kingsby,Ghana,Accra,109,commercial,1,109.0,vacant,,2025-10-09 13:54:00.722,2025-10-09 13:54:00.722
+2,Triplex Lasalle,245 Rue Comte,Canada,Montreal,H8R 3W7,Triplex,3,300.0,occupied,Fully rented,2025-10-05 10:23:33.335,2025-10-30 23:41:41.091
